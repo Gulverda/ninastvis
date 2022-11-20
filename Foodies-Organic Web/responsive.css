@@ -1,0 +1,391 @@
+/*----------Responsive---------------*/
+@media only screen and (max-width: 450px) {
+    body{
+        box-sizing: inherit;
+        font-family: 'Inter';
+        background: #fff;
+        width: 375px;
+        margin: auto;
+    }
+    .logo{
+        position: absolute;
+        margin-left: 30px;
+    }
+    .htext h1{
+        position: absolute;
+        font-size: 51px;
+        margin-top: 114px;
+        margin-left: 27px;
+        line-height: 62px;
+        text-align: center;
+        width: 320px;
+        height: 186px;
+    }
+    .htext p{
+        font-size: 14px;
+        margin-left: 26px;
+        width: 316px;
+        height: 66px;
+        margin-top: 325px;
+    }
+    .bx.bx-menu{
+        display: flex;
+        position: absolute;
+        margin-left: 1410px;
+        margin-top: 60px;
+        color: #06C167;
+        border: 2px solid #06C167;
+        padding: 13px 13px 13px 13px;
+        font-size: 20px;
+        visibility: visible;
+        cursor: pointer;
+    }
+    .btn button{
+        position: absolute;
+        width: 320px;
+        height: 68px;
+        margin-left: 27px;
+    }
+    .btn button h2{
+        margin-left: 90px;
+    }
+    .btn button .fa-solid.fa-right-long{
+        margin-left: 208px;
+    }
+    .diasax{
+        display: flex;
+        position: absolute;
+        width: 100px;
+        height: 469px;
+        margin-left: 0px;
+    }
+    .diasax .mobile{
+        visibility: visible;
+        margin-left: 28px;
+        margin-top: 446px;
+    }
+    .diasax .web{
+        visibility: hidden;
+    }
+    .diasax .dot{
+        margin-top: 780px;
+        margin-left: 200px;
+    }
+    .diasax .rating{
+        margin-top: 810px;
+        margin-left: 73px;
+    }
+    .diasax .avatar{
+        margin-top: 60px;
+        margin-left: 0px;
+    }
+    .sponsors .A{
+        width: 123px;
+        height: 28.59px;
+        margin-left: 27px;
+        margin-top: 1120px;
+    }
+    .sponsors .B{
+        width: 118px;
+        height: 23.67px;
+        margin-left: 200px;
+        margin-top: 1120px;
+    }
+    .sponsors .C{
+        margin-left: 120px;
+        margin-top: 1180px;
+    }
+    .line{
+        width: 320px;
+        margin-top: 620px;
+        margin-left: 27px;
+    }
+    .sqss .img1{
+        margin-top: 670px;
+        margin-left: 65px;
+    }
+    .sqss .img1 h2{
+        margin-left: -20px;
+        margin-top: 88px;
+    }
+    .sqss .img1 p{
+        margin-left: -23px;
+        margin-top: 115px;
+        width: 117px;
+        height: 17px;
+    }
+    .sqss .img2{
+        margin-top: 670px;
+        margin-left: 240px;
+    }
+    .sqss .img2 h2{
+        margin-left: -25px;
+        margin-top: 88px;
+    }
+    .sqss .img2 p{
+        margin-left: -35px;
+        margin-top: 115px;
+    }
+    .sqss .img3{
+        margin-top: 880px;
+        margin-left: 65px;
+    }
+    .sqss .img3 h2{
+        margin-left: -20px;
+        margin-top: 88px;
+    }
+    .sqss .img3 p{
+        margin-left: -20px;
+        margin-top: 115px;
+    }
+    .sqss .img4{
+        margin-top: 880px;
+        margin-left: 240px;
+    }
+    .sqss .img4 h2{
+        margin-left: -20px;
+        margin-top: 88px;
+    }
+    .sqss .img4 p{
+        margin-left: -12px;
+        margin-top: 115px;
+        width: 117px;
+        height: 17px;
+    }
+    .line2{
+        width: 320px;
+        margin-top: 1060px;
+        margin-left: 27px;
+    }
+    .mid .web1{
+        visibility: hidden;
+        margin-left: 0px;
+        width: 200px;
+        height: 200px;
+    }
+    .mid .mobile1{
+        visibility: visible;
+        margin-left: -335px;
+        margin-top: 400px;
+    }
+    .mid h1{
+        width: 82px;
+        height: 18px;
+        text-align: center;
+        margin-top: 1000px;
+        margin-left: 0px;
+    }
+    .mid .wertilebi{
+        margin-top: 850px;
+        margin-left: -350px;
+        opacity: 30%;
+    }
+    .mid p{
+        display: flex;
+        margin-top: 1050px;
+        margin-left: -105px;
+        font-size: 42px;
+        width: 318px;
+        height: 84px;
+        text-align: center;
+    }
+    .mid img{
+        margin-left: 27px;
+        margin-top: 150px;
+    }
+    .mid ul{
+        margin-top: 1300px;
+        margin-left: -70px;
+    }
+    .mid2 img{
+        width: 320px;
+        height: 450px;
+        margin-left: -805px;
+        margin-top: 780px;
+    }
+    .mid2 h1{
+        position: absolute;
+        margin-left: -680px;
+        margin-top: 1280px;
+    }
+    .mid2 p{
+        margin-left: -805px;
+        margin-top: 1350px;
+        font-size: 42px;
+        width: 324px;
+        height: 84px;
+        text-align: center;
+    }
+    .mid2 .num1{
+        margin-left: -700px;
+        margin-top: 1600px;
+    }
+    .mid2 .num2{
+        margin-left: -690px;
+        margin-top: 1720px;
+    }
+    .mid2 .num3{
+        margin-left: -690px;
+        margin-top: 1840px;
+    }
+    .mid2 button{
+        margin-left: -760px;
+        margin-top: 2000px;
+    }
+    .vof{
+        margin-left: -90px;
+        margin-top: 1200px;
+    }
+    .vof h1{
+        margin-left: 225px;
+        margin-top: 2280px;
+    }
+    .vof h2{
+        width: 319px;
+        height: 84px;
+        text-align: center;
+        margin-left: 125px;
+        margin-top: 2320px;
+    }
+    .box1{
+        margin-left: 135px;
+        margin-top: 2535px;
+    }
+    .box5{
+        margin-left: 135px;
+        margin-top: 2827px;
+    }
+    .box3{
+        margin-left: 135px;
+        margin-top: 3120px;
+    }
+    .box4{
+        margin-left: 135px;
+        margin-top: 3400px;
+    }
+    .box6{
+        margin-left: 135px;
+        margin-top: 3680px;
+    }
+    .box2{
+        margin-left: 135px;
+        margin-top: 3970px;
+    }
+    .box8{
+        margin-left: 135px;
+        margin-top: 4250px;
+    }
+    .box7{
+        margin-left: 135px;
+        margin-top: 4540px;
+    }
+    .op h1{
+        margin-top: 4900px;
+        text-align: center;
+        margin-left: 144px;
+    }
+    .op h2{
+        margin-top: 4950px;
+        margin-left: 0px;
+        text-align: center;
+        font-size: 42px;
+    }
+    .banani{
+        margin-top: 5150px;
+        margin-left: 51px;
+    }
+    .gogra{
+        margin-top: 5650px;
+        margin-left: 51px;
+    }
+    .avocado{
+        margin-top: 6150px;
+        margin-left: 51px;
+    }
+    .mandarini{
+        margin-top: 6650px;
+        margin-left: 51px;
+    }
+    .footer{
+        margin-left: -350px;
+        margin-top: 7150px;
+    }
+    .footer h1{
+        font-size: 36px;
+        margin-top: -430px;
+        margin-left: 390px;
+        width: 293px;
+        height: 193px;
+        text-align: center;
+    }
+    .footer button{
+        margin-top: -150px;
+        margin-left: 435px;
+    }
+    .footertext{
+        margin-top: 4350px;
+        margin-left: -100px;
+    }
+    .footertext h1{
+        text-align: center;
+        margin-left: 90px;
+    }
+    .footertext p{
+        text-align: center;
+        margin-top: 70px;
+        margin-left: 10px;
+    }
+    .footertext .h2{
+        margin-top: 4750px;
+        margin-left: 230px;
+        text-align: center;
+    }
+    .footertext .h3{
+        margin-top: 5050px;
+        margin-left: 230px;
+        text-align: center;
+    }
+    .footertext .h4{
+        margin-top: 5350px;
+        margin-left: 110px;
+        text-align: center;
+    }
+    .form-box{
+        margin-top: 5550px;
+        margin-left: 135px;
+        width: 300px;
+    }
+    .form-box button{
+        margin-top: 55px;
+        margin-left: -205px;
+        width: 300px;
+        padding-right: 30px;
+    }
+    #menu-icon{
+        display: block;
+        color: #06C167;
+        margin-left: 298.97px;
+        margin-top: 37px;
+    }
+    .navbar{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background: #2b2640;
+        transition: 0.3s;
+    }
+    .navbar.active{
+        top: 70px;
+    }
+    .navbar li{
+        display: none;
+    }
+    .navbar a{
+        padding: 1.5rem;
+        display: block;
+    }
+}
